@@ -8,6 +8,6 @@ Facebook: Hernán fleitas,
 
 Discord: hernan#7756,
 
-let WishList =["Learn english", "Learn DataBase" "Working In A Team", "HAVE SO MUCH MONEY "];
+let WishList =["Learn english", "Learn everything about DeveloperWeb." "Working In A Team"];
 
 alertACompany(WishList);
