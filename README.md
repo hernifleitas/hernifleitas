@@ -10,4 +10,4 @@ Discord: hernan#7756,
 
 let WishList =["Learn english", "Learn everything about DeveloperWeb." "Working In A Team"];
 
-alertACompany(WishList);
+alertToCompany(WishList);
