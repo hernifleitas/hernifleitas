@@ -6,8 +6,10 @@ Instagram: hernifleitas,
 
 Facebook: Hernán fleitas,
 
-Discord: hernan#7756,
+Discord: hernan#7756
 
-let WishList =["Learn english", "Learn everything about DeveloperWeb." "Working In A Team"];
+          let WishList =['Learn english',
+              'Know people new',
+              'working on team'];
 
-alertToCompany(WishList);
+          alert(WishList);
