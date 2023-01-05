@@ -8,8 +8,9 @@ Facebook: Hernán fleitas,
 
 Discord: hernan#7756
 
-          let WishList =['Learn english',
-              'Know people new',
-              'working on team'];
+           WishList =['Learn english',
+          'Know people new',
+          'working on team']
 
-          alert(WishList);
+           for Wish in WishList:
+             print(f" i want {Wish}" )
