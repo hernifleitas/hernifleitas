@@ -8,9 +8,11 @@ Facebook: Hernán fleitas,
 
 Discord: hernan#7756
 
-           WishList =['Learn english',
-          'Know people new',
-          'working on team']
+           wish_list = [
+    "learn English",
+    "meet new people",
+    "work on a team"
+]
 
-           for Wish in WishList:
-             print(f" i want {Wish}" )
+for wish in wish_list:
+    print(f"I want to {wish}.")
