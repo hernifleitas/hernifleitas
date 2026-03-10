@@ -1,78 +1,42 @@
+<h1 align="center">Hola, soy Hernan Fleitas </h1>
+<h3 align="center">💻 Software Developer</h3>
 
-# 👋 Hola, soy Hernan Fleitas
+<p align="center">
+Desarrollo aplicaciones web y móviles utilizando principalmente el ecosistema JavaScript.
+Me interesa construir productos funcionales, desde la idea hasta el sistema funcionando en producción.
+</p>
 
-💻 **Software Developer**
+---
+
+## 🛠 Tech Stack
+
 <p align="center">
 <img src="https://skillicons.dev/icons?i=react,reactnative,nodejs,express,js,html,css,mysql,postgres,git,github,vscode" />
 </p>
 
+---
 
-Me enfoco en desarrollar **aplicaciones web y móviles funcionales**, construyendo sistemas completos desde el **frontend hasta el backend**.
+## 👨‍💻 Sobre mí
 
-Trabajo principalmente con el **ecosistema JavaScript**, creando interfaces modernas, APIs y aplicaciones móviles.
+- 💻 Desarrollador enfocado en **JavaScript Full Stack**
+- 📱 Desarrollo **aplicaciones web y móviles**
+- 🚀 Siempre construyendo nuevos proyectos y aprendiendo tecnologías
 
 ---
 
-# 🚀 Tecnologías
+## 📊 GitHub Stats
 
-### Frontend
-<p>
-<img src="https://skillicons.dev/icons?i=react,js,html,css" />
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=hernifleitas&show_icons=true&theme=tokyonight" />
 </p>
 
-### Mobile
-<p>
-<img src="https://skillicons.dev/icons?i=react" />
-</p>
-
-### Backend
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-### Bases de Datos
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres" />
-</p>
-
-### Herramientas
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hernifleitas&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-# 📱 Proyecto Destacado
+## 📫 Contacto
 
-## Rider SOS Delivery
-
-Aplicación para **repartidores**, enfocada en seguridad.
-
-### Funciones
-
-🚨 Botón de emergencia  
-📍 Ubicación en tiempo real  
-🔔 Sistema de alertas  
-🛡️ Seguridad para riders  
-
-### Tecnologías
-
-React Native  
-Node.js  
-Express  
-PostgreSQL  
-
----
-
-# 📊 Estadísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hernifleitas&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hernifleitas&layout=compact&theme=tokyonight)
-
----
-
-# 📫 Contacto
-
-💼 LinkedIn  
-💻 GitHub
+💼 LinkedIn: https://www.linkedin.com/in/hernan-fleitas-250988236/
+💻 GitHub: https://github.com/hernifleitas
