@@ -39,4 +39,9 @@ Me interesa construir productos funcionales, desde la idea hasta el sistema func
 ## 📫 Contacto
 
 💼 LinkedIn: https://www.linkedin.com/in/hernan-fleitas-250988236/
+
+
+
+---
+
 💻 GitHub: https://github.com/hernifleitas
