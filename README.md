@@ -11,7 +11,7 @@ Me interesa construir productos funcionales, desde la idea hasta el sistema func
 ## 🛠 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,reactnative,nodejs,express,js,html,css,mysql,postgres,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,js,html,css,mysql,postgres,git,github,vscode" />
 </p>
 
 ---
